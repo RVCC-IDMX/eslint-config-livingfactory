@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/eslint-config-livingfactory/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/eslint-config-livingfactory#readme"
+  "homepage": "https://github.com/RVCC-IDMX/eslint-config-livingfactory#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.3.1",
+    "eslint": "^8.24.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
